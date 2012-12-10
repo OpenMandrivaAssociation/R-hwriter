@@ -40,3 +40,11 @@ rm -f %{buildroot}%{rlibdir}/R.css
 %{rlibdir}/%{packname}/help
 %{rlibdir}/%{packname}/images
 %{rlibdir}/%{packname}/scripts
+
+
+%changelog
+* Sat Feb 18 2012 Paulo Andrade <pcpa@mandriva.com.br> 1.3-1
++ Revision: 776626
+- Import R-hwriter
+- Import R-hwriter
+
