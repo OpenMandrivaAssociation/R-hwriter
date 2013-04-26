@@ -1,6 +1,8 @@
 %global packname  hwriter
 %global rlibdir  %{_libdir}/R/library
 
+%define debug_package %{nil}
+
 Name:             R-%{packname}
 Version:          1.3
 Release:          1
