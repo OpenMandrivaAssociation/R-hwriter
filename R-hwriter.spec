@@ -9,7 +9,7 @@ Release:          3
 Summary:          HTML Writer - Outputs R objects in HTML format
 Group:            Sciences/Mathematics
 License:          LGPL-2.1
-URL:              http://cran.r-project.org/web/packages/%{packname}/index.html
+URL:              https://cran.r-project.org/web/packages/%{packname}/index.html
 Source0:          http://cran.r-project.org/src/contrib/%{packname}_%{version}.tar.gz
 BuildRequires:    R-devel Rmath-devel texlive-collection-latex 
 
